@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1481" started-at="2018-11-01T09:56:14Z" finished-at="2018-11-01T09:56:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1481" started-at="2018-11-01T09:56:14Z" finished-at="2018-11-01T09:56:16Z">
+      <class name="DataDriven_LC.WebTest">
+        <test-method status="PASS" signature="testShipment(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDriven_LC.WebTest@18be83e4]" name="testShipment" duration-ms="16" started-at="2018-11-01T15:26:16Z" data-provider="shipmentData" finished-at="2018-11-01T15:26:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shipment Id]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shipment Name]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Weight]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Arrival Port]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Departure Port]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Total Profit]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testShipment -->
+        <test-method status="PASS" signature="testShipment(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDriven_LC.WebTest@18be83e4]" name="testShipment" duration-ms="4" started-at="2018-11-01T15:26:16Z" data-provider="shipmentData" finished-at="2018-11-01T15:26:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SHIPMENT1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Laptops]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[75.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Agra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Calcutta]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[500.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testShipment -->
+        <test-method status="PASS" signature="testShipment(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDriven_LC.WebTest@18be83e4]" name="testShipment" duration-ms="2" started-at="2018-11-01T15:26:16Z" data-provider="shipmentData" finished-at="2018-11-01T15:26:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SHIPMENT2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Food Items]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[50.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Cochin]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Dadri]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[450.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testShipment -->
+        <test-method status="PASS" signature="testShipment(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDriven_LC.WebTest@18be83e4]" name="testShipment" duration-ms="5" started-at="2018-11-01T15:26:16Z" data-provider="shipmentData" finished-at="2018-11-01T15:26:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SHIPMENT3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Electronics Item]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[60.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Bombay]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Goa]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[365.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testShipment -->
+      </class> <!-- DataDriven_LC.WebTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
